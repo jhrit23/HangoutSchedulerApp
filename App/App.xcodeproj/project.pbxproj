@@ -16,11 +16,6 @@
 			path = App;
 			sourceTree = "<group>";
 		};
-		B13B69202DEE9862002C68DA /* Docs */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Docs;
-			sourceTree = "<group>";
-		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,7 +32,6 @@
 		B13B69032DEE9784002C68DA = {
 			isa = PBXGroup;
 			children = (
-				B13B69202DEE9862002C68DA /* Docs */,
 				B13B690E2DEE9784002C68DA /* App */,
 				B13B690D2DEE9784002C68DA /* Products */,
 			);
@@ -68,7 +62,6 @@
 			);
 			fileSystemSynchronizedGroups = (
 				B13B690E2DEE9784002C68DA /* App */,
-				B13B69202DEE9862002C68DA /* Docs */,
 			);
 			name = App;
 			packageProductDependencies = (
